@@ -18,11 +18,11 @@
 
 ## Phase 3 : Développement MVP
 
-* Mettre en place le backend (API, base de données)
-* Développer le frontend avec les écrans essentiels
-* Intégrer la gestion des idées et leur conversion en projet
-* Créer le tableau de bord avec indicateurs de base
-* Implémenter une authentification simple
+* ~~Mettre en place le backend (API, base de données)~~
+* ~~Développer le frontend avec les écrans essentiels~~
+* ~~Intégrer la gestion des idées et leur conversion en projet~~
+* ~~Créer le tableau de bord avec indicateurs de base~~
+* ~~Implémenter une authentification simple~~
 
 ## Phase 4 : Tests et Feedback
 
