@@ -55,9 +55,9 @@ Fournir un environnement simple, visuel et collaboratif pour passer de l’idée
 
 ```bash
 git clone https://github.com/AlexandreGagne10/Dashboard.git
-cd Dashboard
+cd Dashboard/backend
 npm install
-npm run dev
+npm start
 ```
 
 L'application sera ensuite disponible sur http://localhost:3000.
