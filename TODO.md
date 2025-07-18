@@ -10,11 +10,11 @@
 
 ## Phase 2 : Design UI/UX
 
-* Concevoir les maquettes des écrans clés (tableau de bord, gestion d'idées, projets...)
-* Définir les parcours utilisateurs
-* Choisir les thèmes visuels et modes (sombre/clair)
-* Réaliser les prototypes interactifs
-* Valider l'ergonomie avec des retours de développeurs
+* ~~Concevoir les maquettes des écrans clés (tableau de bord, gestion d'idées, projets...)~~
+* ~~Définir les parcours utilisateurs~~
+* ~~Choisir les thèmes visuels et modes (sombre/clair)~~
+* ~~Réaliser les prototypes interactifs~~
+* ~~Valider l'ergonomie avec des retours de développeurs~~
 
 ## Phase 3 : Développement MVP
 
