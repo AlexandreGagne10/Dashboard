@@ -61,3 +61,23 @@ npm run dev
 ```
 
 L'application sera ensuite disponible sur http://localhost:3000.
+
+## 📡 API REST
+
+Un petit serveur Express expose des routes pour manipuler les idées et projets.
+
+### Endpoints Principaux
+
+- `GET /ideas` : retourne la liste des idées enregistrées.
+- `POST /ideas` : ajoute une idée. Corps JSON attend `title` et
+  optionnellement `description`.
+- `GET /projects` : liste les projets.
+- `POST /projects` : crée un projet.
+
+Lancer l'API avec :
+
+```bash
+cd backend
+npm install
+npm start
+```

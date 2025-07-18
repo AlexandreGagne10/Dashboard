@@ -11,7 +11,12 @@ Mettre en place un premier MVP fonctionnel permettant de gérer les idées et pr
 - Implémenter une authentification simple
 
 ## Backend
-Une API REST basique fournie par **Express** permettra de créer, lister et convertir les idées en projets.
+Une API REST basique fournie par **Express** permet de créer, lister et convertir les idées en projets.
+
+### Endpoints actuels
+
+- `GET /ideas` et `POST /ideas` pour la gestion des idées
+- `GET /projects` et `POST /projects` pour les projets
 
 ## Frontend
 L'interface React affichera la liste des idées et offrira un formulaire d'ajout minimal.
