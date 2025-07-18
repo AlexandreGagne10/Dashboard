@@ -4,6 +4,7 @@
 
 ```markdown
 # 🤖 AGENT.md – Spécifications pour OpenAI Codex
+```
 
 Ce document décrit les consignes de fonctionnement d’un agent OpenAI Codex pour assister dans le développement de l’application **IdeaForge**.
 
