@@ -61,3 +61,11 @@ npm run dev
 ```
 
 L'application sera ensuite disponible sur http://localhost:3000.
+
+## 🧪 Tests
+
+Dans le dossier `backend`, lancez les tests unitaires avec :
+
+```bash
+npm test
+```
