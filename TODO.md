@@ -2,11 +2,11 @@
 
 ## Phase 1 : Analyse & Conception
 
-* Définir les objectifs de l'application
-* Identifier les besoins du public cible
-* Établir la liste des fonctionnalités principales
-* Élaborer les spécifications fonctionnelles et techniques
-* Créer une architecture générale du système
+* ~~Définir les objectifs de l'application~~
+* ~~Identifier les besoins du public cible~~
+* ~~Établir la liste des fonctionnalités principales~~
+* ~~Élaborer les spécifications fonctionnelles et techniques~~
+* ~~Créer une architecture générale du système~~
 
 ## Phase 2 : Design UI/UX
 
