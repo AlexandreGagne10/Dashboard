@@ -43,3 +43,7 @@ Tu es un assistant de codage spécialisé pour une application de gestion d'idé
 
 Tâche :
 Créer un composant React nommé IdeaCard qui affiche un résumé d'une idée (titre, description courte, priorité, tags, bouton "Convertir en projet").
+```
+
+```
+

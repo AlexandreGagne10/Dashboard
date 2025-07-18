@@ -58,3 +58,6 @@ git clone https://github.com/AlexandreGagne10/Dashboard.git
 cd Dashboard
 npm install
 npm run dev
+```
+
+L'application sera ensuite disponible sur http://localhost:3000.
