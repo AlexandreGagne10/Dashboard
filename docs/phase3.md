@@ -15,14 +15,15 @@ Une API REST basique fournie par **Express** permet de créer, lister et convert
 
 ### Endpoints actuels
 
-- `GET /ideas` et `POST /ideas` pour la gestion des idées
+- `POST /login` pour obtenir un jeton JWT
+- `GET /ideas`, `POST /ideas` et `POST /ideas/:id/convert` pour la gestion des idées
 - `GET /projects` et `POST /projects` pour les projets
 
 ## Frontend
-L'interface React affichera la liste des idées et offrira un formulaire d'ajout minimal.
+Une interface légère en JavaScript vanille permet de se connecter, d'ajouter des idées et de les convertir en projets. Les données sont récupérées via l'API sécurisée.
 
 ## Tableau de bord
-Quelques indicateurs (nombre d'idées, de projets) seront visibles sur la page principale.
+La page principale affiche désormais le nombre d'idées et de projets enregistrés.
 
 ## Authentification
-Un système léger de jetons (JWT) protégera les routes de l'API.
+Les utilisateurs se connectent via `POST /login` pour obtenir un jeton JWT. Toutes les autres routes requièrent ce jeton dans l'en-tête `Authorization`.
