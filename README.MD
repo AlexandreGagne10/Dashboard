@@ -1,6 +1,6 @@
-# 💡 IdeaForge – Gestion d’Idées et de Projets pour Développeurs
+# 💡 Dashboard – Gestion d’Idées et de Projets pour Développeurs
 
-**IdeaForge** est une application web intuitive conçue spécifiquement pour les développeurs afin de collecter, organiser, prioriser et transformer des idées en projets structurés.
+**Dashboard** est une application web intuitive conçue spécifiquement pour les développeurs afin de collecter, organiser, prioriser et transformer des idées en projets structurés.
 
 ---
 
@@ -54,7 +54,7 @@ Fournir un environnement simple, visuel et collaboratif pour passer de l’idée
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/votre-utilisateur/ideaforge.git
-cd ideaforge
+git clone https://github.com/AlexandreGagne10/Dashboard.git
+cd Dashboard
 npm install
 npm run dev
