@@ -41,8 +41,8 @@ Fournir un environnement simple, visuel et collaboratif pour passer de l’idée
 
 ## 🚀 Roadmap de Développement
 
-- **Phase 1 :** Analyse & conception
-- **Phase 2 :** Prototypage UI/UX
+ - ~~**Phase 1 :** Analyse & conception~~
+ - ~~**Phase 2 :** Prototypage UI/UX~~
 - **Phase 3 :** MVP fonctionnel
 - **Phase 4 :** Tests utilisateurs & feedback
 - **Phase 5 :** Version complète
